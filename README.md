@@ -1,6 +1,6 @@
 # Shell-bot ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MannyHackers/Shell-Bot)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Siriesblack/jitpro.git)
 
 This is a fully functional shellrunner [Telegram bot][]. You tell it a
 command, it executes it and posts the live output. You can send input to the
